@@ -1,44 +1,34 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--config-env=<name>=<envvar>] <command> [<args>]
+Hey there! I designed a one page personal profile with just me
+Home
 
-These are common Git commands used in various situations:
+The ABOUT ME section contains detail information
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+It contains the MY SERVICES section
+The services that I provide in the field of programming
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+It contains a MY PORTFOLIO section
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+Note \ These works that I put on the page are only fake works, and also the site is fictitious only. I am implementing it to solve the task that I was assigned to
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+It also contains a MY BLOGS section
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
+Finally, the CONTACT ME section
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+Info about me
+
+That's what it's all about on the page
+
+The site also has a dark mode that I implemented using javascript
+
+What did you use on the site?
+
+1 HTML
+2 CSS
+3 Fonts-google
+4 font-awesome
+5 api google-map
+
+Note \ I did not use any external framework or library in the design
+
+Thank you all
+ Eng \ Ahmed_Qannan
