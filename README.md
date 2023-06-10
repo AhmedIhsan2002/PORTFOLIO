@@ -27,6 +27,7 @@ What did you use on the site?
 3 Fonts-google
 4 font-awesome
 5 api google-map
+6 Responsive (media-query)
 
 Note \ I did not use any external framework or library in the design
 
